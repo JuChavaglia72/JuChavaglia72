@@ -2,8 +2,8 @@
 Olá eu sou o usuário @JuChavaglia72, mais conhecido como Juliano Chavaglia de Almeida.
 
 Atualmente estou cursando uma Pós-Graduação em Contabilidade Pública, com previsão de encerramento em janeiro de 2026. 
-Recentemente eu conclui um MBA em Finanças e Controladoria, e já tenho no meu currículo um MBA em Administração Pública e Gestão de Cidades.
-Sou Bacharel em Ciências Contábeis, além de Técnico em Processamento de Dados e Contabilidade.
+
+Recentemente eu conclui um MBA em Finanças e Controladoria, e já possuo no meu currículo um MBA em Administração Pública e Gestão de Cidades, alé de já ser Bacharel em Ciências Contábeis, Técnico em Processamento de Dados e Contabilidade.
 
 Nos últimos meses, retomei meus estudos em TI. 
 
