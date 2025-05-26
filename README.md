@@ -4,8 +4,8 @@ Olá eu sou o usuário @JuChavaglia72, mais conhecido como Juliano Chavaglia de 
 Atualmente estou cursando uma Pós-Graduação em Contabilidade Pública, com previsão de encerramento em janeiro de 2026. Recentemente eu conclui um MBA em Finanças e Controladoria (concluído em 2025), e já possuo no meu currículo um MBA em Administração Pública e Gestão de Cidades (concluido em 2010), além de já ser Bacharel em Ciências Contábeis (concluído em 1995), Técnico em Processamento de Dados (concluído em 1997)e Técnico em Contabilidade (concluído em 1991).
 
 Nos últimos meses, retomei meus estudos em TI. Finalizei uma introdução ao Linux e de lá pra cá tenho realizado alguns cursos de programação:
-- Linux do Zero,
-- Linux para Iniciantes,
+- Linux do Zero (concluído),
+- Linux para Iniciantes (concluído),
 - Formação HTML Web Developer,
 - Formação Github Certification e
 - Formação Python Fundamentals.
