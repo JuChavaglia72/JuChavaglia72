@@ -3,6 +3,8 @@
 
 Olá eu sou o usuário **Juliano Chavaglia de Almeida**, mais conhecido aqui no GitHub como usuário **@JuChavaglia72**.
 
+Ingressei no serviço público sorocabano na Prefeitura de Sorocaba em 09/2006, na função pública de Contador I. Nesses anos passei por diversos cargos de chefia e direção e hoje estou atuando em meu cargo de origem. A carga horária diária é de seis horas, assim tenho tempo para me dedicar a outros projetos pessoais, como cuidar de meus cachorros, gato e plantas, leitura e cursos diversos. As vezes faço uns free lancers em Contabilidade Pública.
+
 Atualmente estou cursando uma Pós-Graduação em Contabilidade Pública, com previsão de encerramento em janeiro de 2026. Recentemente eu conclui um MBA em Finanças e Controladoria (concluído em 2025), e já possuo no meu currículo um MBA em Administração Pública e Gestão de Cidades (concluido em 2010), além de já ser Bacharel em Ciências Contábeis (concluído em 1995), Técnico em Processamento de Dados (concluído em 1997) e Técnico em Contabilidade (concluído em 1991).
 
 Nos últimos meses, retomei meus estudos em Tecnologia da Informação. Finalizei um bootcamp de introdução ao Linux e de lá pra cá conclui quase 100 cursos na área.
