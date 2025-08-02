@@ -5,6 +5,8 @@ Atualmente estou cursando uma Pós-Graduação em Contabilidade Pública, com pr
 
 **Nos últimos meses, retomei meus estudos em TI. Finalizei uma introdução ao Linux e de lá pra cá conclui quase 100 cursos na área de TI:**
 
+**Sou aluno das plataformas de ensino Anhanguera Educacional, AprendaMais, Asimov Acaademy, DIO, ICL, Udemy, dentre outras.**
+
 Me sigam nas redes sociais: 
 - LinkedIn : https://www.linkedin.com/in/juliano-chavaglia-11b295336/
 - YouTube: https://www.youtube.com/@JulianoChavaglia
