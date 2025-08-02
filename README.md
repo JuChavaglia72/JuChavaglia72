@@ -1,9 +1,13 @@
 
+## Bem vindos ao meu perfil no GitHub!!!
+
 Olá eu sou o usuário **Juliano Chavaglia de Almeida**, mais conhecido aqui no GitHub como usuário **@JuChavaglia72**.
 
 Atualmente estou cursando uma Pós-Graduação em Contabilidade Pública, com previsão de encerramento em janeiro de 2026. Recentemente eu conclui um MBA em Finanças e Controladoria (concluído em 2025), e já possuo no meu currículo um MBA em Administração Pública e Gestão de Cidades (concluido em 2010), além de já ser Bacharel em Ciências Contábeis (concluído em 1995), Técnico em Processamento de Dados (concluído em 1997) e Técnico em Contabilidade (concluído em 1991).
 
-**Nos últimos meses, retomei meus estudos em TI. Finalizei uma introdução ao Linux e de lá pra cá conclui quase 100 cursos na área de TI:**
+Nos últimos meses, retomei meus estudos em Tecnologia da Informação. Finalizei um bootcamp de introdução ao Linux e de lá pra cá conclui quase 100 cursos na área.
+
+*Tenho me interessado e estudado Lógica de programação, HTML5, CSS, JavaScript, C, Pascal, Python, SQL. Nesse momento não possuo nível de programação profissional. Sou Contador e estou procurando ampliar meu leque de conhecimentos*
 
 **Dentre outras, sou aluno das seguintes plataformas de ensino :**
 - Anhanguera Educacional : https://www.anhanguera.com/  
