@@ -9,7 +9,7 @@ Atualmente estou cursando uma Pós-Graduação em Contabilidade Pública, com pr
 
 Nos últimos meses, retomei meus estudos em Tecnologia da Informação. Finalizei um bootcamp de introdução ao Linux e de lá pra cá conclui quase 100 cursos na área.
 
-*Tenho me interessado e estudado Lógica de programação, HTML5, CSS, JavaScript, C, Pascal, Python, SQL. Nesse momento não possuo nível de programação profissional. Sou Contador e estou procurando ampliar meu leque de conhecimentos*
+**Tenho me interessado e estudado Lógica de programação, HTML5, CSS, JavaScript, C, Pascal, Python, SQL. Nesse momento não possuo nível de programação profissional. Sou Contador e estou procurando ampliar meu leque de conhecimentos**
 
 **Dentre outras, sou aluno das seguintes plataformas de ensino :**
 - Anhanguera Educacional : https://www.anhanguera.com/  
