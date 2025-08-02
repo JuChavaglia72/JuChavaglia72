@@ -6,19 +6,19 @@ Atualmente estou cursando uma Pós-Graduação em Contabilidade Pública, com pr
 **Nos últimos meses, retomei meus estudos em TI. Finalizei uma introdução ao Linux e de lá pra cá conclui quase 100 cursos na área de TI:**
 
 **Dentre outras, sou aluno das seguintes plataformas de ensino :**
-*- Anhanguera Educacional : https://www.anhanguera.com/*  
-*- AprendaMais : https://aprendamais.mec.gov.br/*
-*- Asimov Academy - https://asimov.academy/* 
-*- DIO - https://www.dio.me/*
-*- ICL - https://icl.com.br/*
-*- Udemy - https://www.udemy.com/*
-*- W3 Schools - https://www.w3schools.com/*
+- Anhanguera Educacional : https://www.anhanguera.com/  
+- AprendaMais : https://aprendamais.mec.gov.br/
+- Asimov Academy - https://asimov.academy/ 
+- DIO - https://www.dio.me/
+- ICL - https://icl.com.br/
+- Udemy - https://www.udemy.com/
+- W3 Schools - https://www.w3schools.com/
 
 **Me sigam nas redes sociais:**
-*- LinkedIn : https://www.linkedin.com/in/juliano-chavaglia-11b295336/*
-*- YouTube: https://www.youtube.com/@JulianoChavaglia*
-*- Facebook: https://www.facebook.com/juchavaglia*
-*- Instagram : https://www.instagram.com/juchavaglia*
+- LinkedIn : https://www.linkedin.com/in/juliano-chavaglia-11b295336/
+- YouTube: https://www.youtube.com/@JulianoChavaglia
+- Facebook: https://www.facebook.com/juchavaglia
+- Instagram : https://www.instagram.com/juchavaglia
 
 <!---
 JuChavaglia72/JuChavaglia72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
