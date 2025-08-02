@@ -1,7 +1,7 @@
 
 ## Bem vindos ao meu perfil no GitHub!!!
 
-Olá eu sou o usuário **Juliano Chavaglia de Almeida**, mais conhecido aqui no GitHub como usuário **@JuChavaglia72**.
+Olá! Eu sou o usuário **Juliano Chavaglia de Almeida**, mais conhecido aqui no GitHub como usuário **@JuChavaglia72**.
 
 Ingressei no serviço público sorocabano na Prefeitura de Sorocaba em 09/2006, na função pública de Contador I. Nesses anos passei por diversos cargos de chefia e direção e hoje estou atuando em meu cargo de origem. A carga horária diária é de seis horas, assim tenho tempo para me dedicar a outros projetos pessoais, como cuidar de meus cachorros, gato e plantas, leitura e cursos diversos. As vezes faço uns free lancers em Contabilidade Pública.
 
