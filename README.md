@@ -11,15 +11,6 @@ Atualmente estou cursando uma Pós-Graduação Análise e Desenvolvimento de Sis
 
 **Tenho me interessado e estudado Lógica de programação, HTML5, CSS, JavaScript, C, Pascal, Python, SQL. Nesse momento não possuo nível de programação profissional. Sou Contador e estou procurando ampliar meu leque de conhecimentos**
 
-**Dentre outras, sou aluno das seguintes plataformas de ensino :**
-- Anhanguera Educacional : https://www.anhanguera.com/  
-- AprendaMais : https://aprendamais.mec.gov.br/
-- Asimov Academy - https://asimov.academy/ 
-- DIO - https://www.dio.me/
-- ICL - https://icl.com.br/
-- Udemy - https://www.udemy.com/
-- W3 Schools - https://www.w3schools.com/
-
 **Me sigam nas redes sociais:**
 - LinkedIn : https://www.linkedin.com/in/juliano-chavaglia-11b295336/
 - YouTube: https://www.youtube.com/@JulianoChavaglia
